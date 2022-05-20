@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=NetR3_1 Pin=R4-1
+Removed Pin From Net: NetName=NetR3_1 Pin=U3-22
+Removed Pin From Net: NetName=NetR3_1 Pin=U4-24
+Added Component: Designator=J7(HEADER 2.54mm 1x3)
+Added Pin To Net: NetName=5V Pin=J7-2
+Added Pin To Net: NetName=GND Pin=J7-3
+Added Pin To Net: NetName=NetJ7_1 Pin=J7-1
+Added Pin To Net: NetName=NetJ7_1 Pin=U3-27
+Added Net: Name=NetJ7_1
+Added Pin To Net: NetName=NetR4_1 Pin=R4-1
+Added Pin To Net: NetName=NetR4_1 Pin=U3-22
+Added Pin To Net: NetName=NetR4_1 Pin=U4-24
+Added Net: Name=NetR4_1
+Added Member To Class: ClassName=STM32 Member=Component J7 HEADER 2.54mm 1x3
